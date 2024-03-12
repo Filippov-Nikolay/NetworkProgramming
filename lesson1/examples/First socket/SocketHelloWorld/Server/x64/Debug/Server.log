@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\filip\Desktop\temp\NetworkProgramming\lesson1\examples\First socket\SocketHelloWorld\Server\Source.cpp(12,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\filip\Desktop\temp\NetworkProgramming\lesson1\examples\First socket\SocketHelloWorld\Server\Source.cpp(52,32): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Server.vcxproj -> C:\Users\filip\Desktop\temp\NetworkProgramming\lesson1\examples\First socket\SocketHelloWorld\x64\Debug\Server.exe

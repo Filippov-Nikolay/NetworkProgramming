@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\filip\Desktop\temp\NetworkProgramming\lesson1\examples\First socket\SocketHelloWorld\SocketHelloWorld\Source.cpp(46,28): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  SocketHelloWorld.vcxproj -> C:\Users\filip\Desktop\temp\NetworkProgramming\lesson1\examples\First socket\SocketHelloWorld\x64\Debug\SocketHelloWorld.exe

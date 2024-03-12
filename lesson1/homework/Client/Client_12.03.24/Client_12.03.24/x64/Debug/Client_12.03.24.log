@@ -1,0 +1,6 @@
+﻿  mainDlg.cpp
+C:\Users\filip\Desktop\temp\NetworkProgramming\lesson1\homework\Client\Client_12.03.24\Client_12.03.24\mainDlg.cpp(44,30): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\filip\Desktop\temp\NetworkProgramming\lesson1\homework\Client\Client_12.03.24\Client_12.03.24\mainDlg.cpp(101,22): warning C4244: =: преобразование "_TCHAR" в "char", возможна потеря данных
+C:\Users\filip\Desktop\temp\NetworkProgramming\lesson1\homework\Client\Client_12.03.24\Client_12.03.24\mainDlg.cpp(117,10): warning C4101: buff: неиспользованная локальная переменная
+C:\Users\filip\Desktop\temp\NetworkProgramming\lesson1\homework\Client\Client_12.03.24\Client_12.03.24\mainDlg.cpp(149,26): warning C4244: =: преобразование "_TCHAR" в "char", возможна потеря данных
+  Client_12.03.24.vcxproj -> C:\Users\filip\Desktop\temp\NetworkProgramming\lesson1\homework\Client\Client_12.03.24\x64\Debug\Client_12.03.24.exe
