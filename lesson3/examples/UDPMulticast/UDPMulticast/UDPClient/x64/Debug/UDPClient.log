@@ -1,0 +1,4 @@
+﻿  Client.cpp
+C:\Users\filip\Desktop\temp\NetworkProgramming\lesson3\examples\UDPMulticast\UDPMulticast\UDPClient\Client.cpp(42,46): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\filip\Desktop\temp\NetworkProgramming\lesson3\examples\UDPMulticast\UDPMulticast\UDPClient\Client.cpp(57,46): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  UDPClient.vcxproj -> C:\Users\filip\Desktop\temp\NetworkProgramming\lesson3\examples\UDPMulticast\UDPMulticast\x64\Debug\UDPClient.exe

@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\filip\Desktop\temp\NetworkProgramming\lesson2\WinSocketChat\WinSocketChat\x64\Debug\WinSocketChat.exe</FullPath>
+      <FullPath>C:\Users\filip\Desktop\temp\NetworkProgramming\lesson2\examples\WinSocketChat\WinSocketChat\x64\Debug\WinSocketChat.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

@@ -1,0 +1,11 @@
+﻿  Server.cpp
+C:\Users\filip\Desktop\temp\NetworkProgramming\lesson4\UDPMulticast\UDPMulticast\UDPExample\Server.cpp(95,57): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\filip\Desktop\temp\NetworkProgramming\lesson4\UDPMulticast\UDPMulticast\UDPExample\Server.cpp(99,11): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "SOCKET"
+  C:\Users\filip\Desktop\temp\NetworkProgramming\lesson4\UDPMulticast\UDPMulticast\UDPExample\Server.cpp(99,11):
+  рекомендуется использовать "%lld" в строке форматирования
+  C:\Users\filip\Desktop\temp\NetworkProgramming\lesson4\UDPMulticast\UDPMulticast\UDPExample\Server.cpp(99,11):
+  рекомендуется использовать "%Id" в строке форматирования
+  C:\Users\filip\Desktop\temp\NetworkProgramming\lesson4\UDPMulticast\UDPMulticast\UDPExample\Server.cpp(99,11):
+  рекомендуется использовать "%I64d" в строке форматирования
+  
+  UDPExample.vcxproj -> C:\Users\filip\Desktop\temp\NetworkProgramming\lesson4\UDPMulticast\UDPMulticast\x64\Debug\UDPListener.exe

@@ -1,2 +1,5 @@
-﻿  Source.cpp
-  WinSocketChat.vcxproj -> C:\Users\filip\Desktop\temp\NetworkProgramming\lesson2\WinSocketChat\WinSocketChat\x64\Debug\WinSocketChat.exe
+﻿  Socket.cpp
+C:\Users\filip\Desktop\temp\NetworkProgramming\lesson2\examples\WinSocketChat\WinSocketChat\WinSocketChat\Socket.cpp(38,30): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Source.cpp
+  Создание кода...
+  WinSocketChat.vcxproj -> C:\Users\filip\Desktop\temp\NetworkProgramming\lesson2\examples\WinSocketChat\WinSocketChat\x64\Debug\WinSocketChat.exe

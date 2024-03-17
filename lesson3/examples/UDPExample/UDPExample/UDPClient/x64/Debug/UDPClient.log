@@ -1,3 +1,0 @@
-﻿  UDPClient.cpp
-C:\Users\filip\Desktop\temp\NetworkProgramming\lesson3\examples\UDPExample\UDPExample\UDPClient\UDPClient.cpp(38,55): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-  UDPClient.vcxproj -> C:\Users\filip\Desktop\temp\NetworkProgramming\lesson3\examples\UDPExample\UDPExample\x64\Debug\UDPClient.exe
