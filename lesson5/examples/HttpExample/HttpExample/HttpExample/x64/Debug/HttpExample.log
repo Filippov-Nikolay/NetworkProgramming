@@ -1,0 +1,3 @@
+﻿  HttpExample.cpp
+C:\Users\filip\Desktop\temp\NetworkProgramming\lesson5\examples\HttpExample\HttpExample\HttpExample\HttpExample.cpp(82,60): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  HttpExample.vcxproj -> C:\Users\filip\Desktop\temp\NetworkProgramming\lesson5\examples\HttpExample\HttpExample\x64\Debug\HttpExample.exe
