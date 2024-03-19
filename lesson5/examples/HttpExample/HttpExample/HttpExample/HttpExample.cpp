@@ -110,7 +110,7 @@ int main() {
 
     } while (respLength == BUFFERSIZE);
 
-    // cout << response << endl;
+    cout << response << endl << endl;
 
     char tempKey[BUFFERSIZE];
     bool isWrite = false;
