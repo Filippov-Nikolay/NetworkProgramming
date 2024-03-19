@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include <windows.h>
 #include <string>
 #include <fstream>
@@ -18,19 +18,19 @@ int main() {
 	string destFile = "file.txt";
 
 	string currency, exchange;
-	cout << "Ââåäèòå âàëþòó (USD, EUR): ";
+	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð²Ð°Ð»ÑŽÑ‚Ñƒ (USD, EUR): ";
 	cin >> currency;
 
 	string year;
-	cout << "Ââåäèòå ãîä: ";
+	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð³Ð¾Ð´: ";
 	cin >> year;
 
 	string month;
-	cout << "Ââåäèòå ìåñÿö: ";
+	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð¼ÐµÑÑÑ†: ";
 	cin >> month;
 
 	string day;
-	cout << "Ââåäèòå äåíü: ";
+	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð´ÐµÐ½ÑŒ: ";
 	cin >> day;
 
 	string date = (year += month += day);
@@ -86,15 +86,15 @@ int main() {
 
                     if (strcmp(tempKey, "cc") == 0) {
                         currency = tempValue;
-                        cout << "Âàëþòà: " << tempValue << endl;
+                        cout << "Ð’Ð°Ð»ÑŽÑ‚Ð°: " << tempValue << endl;
                     }
                     else if (strcmp(tempKey, "exchangedate") == 0) {
                         date = tempValue;
-                        cout << "Äàòà: " << tempValue << endl;
+                        cout << "Ð”Ð°Ñ‚Ð°: " << tempValue << endl;
                     }
                     else if (strcmp(tempKey, "rate") == 0) {
                         exchange = tempValue;
-                        cout << "Êóðñ: " << tempValue << endl;
+                        cout << "ÐšÑƒÑ€Ñ: " << tempValue << endl;
                     }
                 }
 
@@ -110,7 +110,7 @@ int main() {
         }
     }
 
-    response = "Äàòà: " + date += "ã, Âàëþòà - " + currency + ", 1" + currency + " = " + exchange + "ãðí";
+    response = "Ð”Ð°Ñ‚Ð°: " + date += "Ð³, Ð’Ð°Ð»ÑŽÑ‚Ð° - " + currency + ", 1" + currency + " = " + exchange + "Ð³Ñ€Ð½";
 
     cout << response << endl;
 
