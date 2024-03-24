@@ -1,0 +1,3 @@
+﻿  project_19.03.24.cpp
+C:\Users\filip\Desktop\temp\NetworkProgramming\project\project_19.03.24\project_19.03.24\project_19.03.24.cpp(32,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  project_19.03.24.vcxproj -> C:\Users\filip\Desktop\temp\NetworkProgramming\project\project_19.03.24\x64\Debug\project_19.03.24(Client).exe

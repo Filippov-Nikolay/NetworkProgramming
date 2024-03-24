@@ -1,0 +1,17 @@
+[
+	{
+		"item": "hamburger",
+		"time": 5,
+		"price": 160
+	},
+	{
+		"item": "sprite",
+		"time": 1,
+		"price": 60
+	},
+	{
+		"item": "free potato",
+		"time": 3,
+		"price": 90
+	}
+]
